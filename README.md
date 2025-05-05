@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer vision, machine learning and deep learning.
 - 🌱 I’m currently learning feature extraction of image recognition.
 - 📫 How to reach me
-jkyou98@gmail.com
+jkyounl98@gmail.com
 
 <!---
 jkyou98/jkyou98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
