@@ -14,6 +14,6 @@
 - [Illumination Correction](https://github.com/jkyou98/Illumination-Correction)
 - [Image Crop](https://github.com/jkyou98/Image-Cropping)
 ### Deep Learning Development
-- [Convolutional Neural Network Based on Compressed Sensing]https://github.com/jkyou98/CompressedSensingNet
+- [Convolutional Neural Network Based on Compressed Sensing](https://github.com/jkyou98/CompressedSensingNet)
 
 > Feel free to explore my repositories and reach out if you have questions or collaboration ideas!
