@@ -13,6 +13,7 @@
 - [Weber Local Descriptor](https://github.com/jkyou98/WLD)
 - [Illumination Correction](https://github.com/jkyou98/Illumination-Correction)
 - [Image Crop](https://github.com/jkyou98/Image-Cropping)
+### Deep Learning Development
+- [Convolutional Neural Network Based on Compressed Sensing]https://github.com/jkyou98/CompressedSensingNet
 
-
-> There's more private respositary about deep learning based on Pytorch. Feel free to explore my repositories and reach out if you have questions or collaboration ideas!
+> Feel free to explore my repositories and reach out if you have questions or collaboration ideas!
