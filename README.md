@@ -15,5 +15,7 @@
 - [Image Crop](https://github.com/jkyou98/Image-Cropping)
 ### Deep Learning Development
 - [Convolutional Neural Network Based on Compressed Sensing](https://github.com/jkyou98/CompressedSensingNet)
+### Evolutionary Computing
+- [Embedded Gene Algorithm](https://github.com/jkyou98/Encoded-Gene-Algorithm)
 
 > Feel free to explore my repositories and reach out if you have questions or collaboration ideas!
